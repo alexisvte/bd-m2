@@ -10,6 +10,6 @@ Develop an [application](https://alexisvte.shinyapps.io/big-data-app/?_ga=2.1831
 
 ## Documentation
 
-The purpose of the application is to offer some statistical methods to analyze the death rate of several pollution-related diseases.
+The purpose of the application is to offer some statistical methods to analyze the death rate of several pollution-related diseases based on UN and WHO datasets.
 
 </div>
