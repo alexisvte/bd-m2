@@ -1,4 +1,4 @@
-# <span style="color: red;">WORK IN PROGRESS...</span>
+<span style="color: red;">WORK IN PROGRESS...</span>
 
 # bd-m2
 
