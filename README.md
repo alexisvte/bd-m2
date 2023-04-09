@@ -1,6 +1,8 @@
 # bd-m2
 
-<span style="color: red;">WORK IN PROGRESS...</span>
+```diff
+- WORK IN PROGRESS...
+```
 
 _Shiny Applcation_ in R.
 
