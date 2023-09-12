@@ -1,5 +1,13 @@
 # bd-m2
 
+```bash
+.
+├── .. (IN PROGRESS)
+│   └── .. (IN PROGRESS)
+└── .. (IN PROGRESS)
+    └── .. (IN PROGRESS)
+```
+
 ```diff
 + WORK IS DONE.
 
@@ -37,19 +45,6 @@ We have a `shiny` application that we call on RStudio or by typing:
 
 ```r
 runApp("app")
-```
-
-```bash
-.
-├── .gitignore
-├── .Rbuildignore
-├── DESCRIPTION
-├── NAMESPACE
-├── R
-│   └── hello.R
-├── exampleRPackage.Rproj
-└── man
-    └── hello.Rd
 ```
 
 The purpose of the application is to offer the user a way to see the portfolio value evolution in direct according to customers caracteristics, revenue, cost and discount rate.
