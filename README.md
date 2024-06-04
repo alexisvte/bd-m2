@@ -11,8 +11,6 @@
 ```diff
 + WORK IS DONE.
 
-Every subtabs and every tabs work well.
-
 ! COMMENTS ARE IN PROGRESS...
 
 ! REVIEW IN PROGRESS...
