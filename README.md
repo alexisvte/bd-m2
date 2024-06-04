@@ -13,14 +13,11 @@
 
 Every subtabs and every tabs work well.
 
-! COMMENT IN PROGRESS...
+! COMMENTS ARE IN PROGRESS...
 
-Code needs to be reviewed,
-Code needs to be commented.
+! REVIEW IN PROGRESS...
 
-- WORK IN PROGRESS...
-
-Diseases impact marginal effects.
+- ADDITIONAL WORK IN PROGRESS (MARGINAL EFFECTS)...
 ```
 
 
